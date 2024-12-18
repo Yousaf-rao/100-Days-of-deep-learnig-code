@@ -1,1 +1,1 @@
-# 100-Days-of-deep-learnig-code
+# 100-Days-of-deep-learnig-codes
